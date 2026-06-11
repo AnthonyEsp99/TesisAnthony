@@ -1,0 +1,8 @@
+{
+  "data_preparation": 0.002007999923080206,
+  "training_total": 10503.68664495903,
+  "epochs_completed": 80,
+  "avg_epoch_time": 131.29544158599455,
+  "test_evaluation": 10.601435583084822,
+  "total_execution": 10515.187667333055
+}

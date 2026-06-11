@@ -1,0 +1,19 @@
+{
+  "tau": -1.7,
+  "promedio_delta_log": -1.7821283340454102,
+  "promedio_log_mdr": -2.5010926723480225,
+  "porcentaje_cura": 97.0,
+  "tiempo_total_segundos": 8507.118031024933,
+  "num_pacientes": 200,
+  "algoritmo_genetico": {
+    "poblacion": 400,
+    "generaciones": 60,
+    "mutacion": 0.04,
+    "elite_frac": 0.05
+  },
+  "pesos_costo": {
+    "w1": 2.0,
+    "w2": 2.0
+  },
+  "penalizacion_resistencia": null
+}

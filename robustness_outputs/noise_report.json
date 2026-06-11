@@ -1,0 +1,9 @@
+{
+  "static_sigma": 0.03,
+  "treat_flip_p": 0.03,
+  "n_repeats": 10,
+  "mean_abs_change_delta_log_ode": 0.5035647780267917,
+  "mean_abs_change_log_mdr_ode": 0.1976160097188989,
+  "mean_abs_change_delta_log_lstm": 0.35934066838628154,
+  "mean_abs_change_log_mdr_lstm": 0.0915620954203555
+}
